@@ -5,7 +5,7 @@
 
  → Ingredients:
    → X Apples
-   → X kg of flour
+   → X g of flour
    → 2-3 eggs
 
  → Preparation:
